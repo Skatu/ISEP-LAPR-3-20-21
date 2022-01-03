@@ -1,0 +1,288 @@
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 34:
+	Nome: Sousa Torres
+	Endereço:
+		Rua: MaiaShopping
+		Número da Porta: 135
+		Código Postal: 4425-500
+		Localidade: Maia
+		País: Portugal
+		Latitude: 41,22
+		Longitude: -8,56
+		Altitude: 91,00
+
+Estacionamento da Farmácia 34:
+	Capacidade máxima de Scooters: 10
+	Número de Slots de Carregamento para Scooters: 5
+	Capacidade máxima de Drones: 8
+	Número de Slots de Carregamento para Drones: 2
+	Potência Máxima dos Slots de Carregamento: 6,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 35:
+	Nome: Guifões
+	Endereço:
+		Rua: Rua Tourais
+		Número da Porta: 376
+		Código Postal: 4460-033
+		Localidade: Guifões
+		País: Portugal
+		Latitude: 41,20
+		Longitude: -8,67
+		Altitude: 74,00
+
+Estacionamento da Farmácia 35:
+	Capacidade máxima de Scooters: 9
+	Número de Slots de Carregamento para Scooters: 2
+	Capacidade máxima de Drones: 7
+	Número de Slots de Carregamento para Drones: 4
+	Potência Máxima dos Slots de Carregamento: 5,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 36:
+	Nome: Avenida
+	Endereço:
+		Rua: Rua O Primeiro de Janeiro
+		Número da Porta: 1728
+		Código Postal: 4100-116
+		Localidade: Porto
+		País: Portugal
+		Latitude: 41,16
+		Longitude: -8,64
+		Altitude: 72,00
+
+Estacionamento da Farmácia 36:
+	Capacidade máxima de Scooters: 8
+	Número de Slots de Carregamento para Scooters: 3
+	Capacidade máxima de Drones: 7
+	Número de Slots de Carregamento para Drones: 4
+	Potência Máxima dos Slots de Carregamento: 5,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 37:
+	Nome: Sá
+	Endereço:
+		Rua: Rua Vale Formoso
+		Número da Porta: 181
+		Código Postal: 4200-512
+		Localidade: Porto
+		País: Portugal
+		Latitude: 41,17
+		Longitude: -8,61
+		Altitude: 132,00
+
+Estacionamento da Farmácia 37:
+	Capacidade máxima de Scooters: 10
+	Número de Slots de Carregamento para Scooters: 6
+	Capacidade máxima de Drones: 10
+	Número de Slots de Carregamento para Drones: 4
+	Potência Máxima dos Slots de Carregamento: 7,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 38:
+	Nome: Fânzeres
+	Endereço:
+		Rua: Rua Dr Severiano
+		Número da Porta: 280
+		Código Postal: 4510-554
+		Localidade: Fânzeres
+		País: Portugal
+		Latitude: 41,16
+		Longitude: -8,53
+		Altitude: 82,00
+
+Estacionamento da Farmácia 38:
+	Capacidade máxima de Scooters: 8
+	Número de Slots de Carregamento para Scooters: 6
+	Capacidade máxima de Drones: 4
+	Número de Slots de Carregamento para Drones: 3
+	Potência Máxima dos Slots de Carregamento: 3,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 39:
+	Nome: Sá da Bandeira
+	Endereço:
+		Rua: Rua Sá da Bandeira
+		Número da Porta: 236
+		Código Postal: 4000-428
+		Localidade: Porto
+		País: Portugal
+		Latitude: 41,15
+		Longitude: -8,61
+		Altitude: 85,00
+
+Estacionamento da Farmácia 39:
+	Capacidade máxima de Scooters: 10
+	Número de Slots de Carregamento para Scooters: 8
+	Capacidade máxima de Drones: 5
+	Número de Slots de Carregamento para Drones: 3
+	Potência Máxima dos Slots de Carregamento: 6,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 40:
+	Nome: Couto
+	Endereço:
+		Rua: Avenida da República
+		Número da Porta: 1412
+		Código Postal: 4430-193
+		Localidade: Gaia
+		País: Portugal
+		Latitude: 41,13
+		Longitude: -8,61
+		Altitude: 114,00
+
+Estacionamento da Farmácia 40:
+	Capacidade máxima de Scooters: 9
+	Número de Slots de Carregamento para Scooters: 4
+	Capacidade máxima de Drones: 8
+	Número de Slots de Carregamento para Drones: 5
+	Potência Máxima dos Slots de Carregamento: 5,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 41:
+	Nome: Marques da Cunha
+	Endereço:
+		Rua: Rua Cap Aresta
+		Número da Porta: 198
+		Código Postal: 4440-539
+		Localidade: Valongo
+		País: Portugal
+		Latitude: 41,20
+		Longitude: -8,50
+		Altitude: 130,00
+
+Estacionamento da Farmácia 41:
+	Capacidade máxima de Scooters: 6
+	Número de Slots de Carregamento para Scooters: 3
+	Capacidade máxima de Drones: 6
+	Número de Slots de Carregamento para Drones: 3
+	Potência Máxima dos Slots de Carregamento: 3,00
+
+----------------------REGISTAR FARMACIA E ESTACIONAMENTO----------------------
+
+Farmacia 42:
+	Nome: Central
+	Endereço:
+		Rua: Avenida 5 de Outubro
+		Número da Porta: 57
+		Código Postal: 4440-452
+		Localidade: Valongo
+		País: Portugal
+		Latitude: 41,19
+		Longitude: -8,50
+		Altitude: 123,00
+
+Estacionamento da Farmácia 42:
+	Capacidade máxima de Scooters: 7
+	Número de Slots de Carregamento para Scooters: 5
+	Capacidade máxima de Drones: 6
+	Número de Slots de Carregamento para Drones: 5
+	Potência Máxima dos Slots de Carregamento: 5,00
+
+----------------------REGISTAR GESTOR DA FARMACIA----------------------
+
+Sucesso no registo de gestor
+
+Gestor da Farmácia 34: 
+	E-mail: 1181055@isep.ipp.pt
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 34:
+	E-mail: 1190549@isep.ipp.pt
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 35:
+	E-mail: 1191118@isep.ipp.pt
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 36:
+	E-mail: estafeta3@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 37:
+	E-mail: estafeta4@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 38:
+	E-mail: estafeta5@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 39:
+	E-mail: estafeta6@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 40:
+	E-mail: estafeta7@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 41:
+	E-mail: estafeta8@email.com
+
+----------------------REGISTAR ESTAFETA----------------------
+
+erro no registo
+
+Estafeta Adicionado a Farmacia 42:
+	E-mail: estafeta9@email.com
+
+----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR SCOOTER----------------------
+
+Erro no registo da Scooter----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone----------------------ADICIONAR DRONE----------------------
+
+Erro no registo do Drone
